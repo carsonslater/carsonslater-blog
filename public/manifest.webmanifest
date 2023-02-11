@@ -1,0 +1,18 @@
+{
+  "name": "Carson Slater's Blog",
+  "short_name": "Carson Slater's Blog",
+  "lang": "en-us",
+  "theme_color": "#F67814",
+  "background_color": "#F67814",
+  "icons": [{
+    "src": "/media/icon_hu157031afba4586da11a934f6f1896e51_654558_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu157031afba4586da11a934f6f1896e51_654558_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

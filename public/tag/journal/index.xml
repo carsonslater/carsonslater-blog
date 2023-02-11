@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal | Carson Slater&#39;s Blog</title>
+    <link>https://example.com/tag/journal/</link>
+      <atom:link href="https://example.com/tag/journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:05 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu157031afba4586da11a934f6f1896e51_654558_512x512_fill_lanczos_center_3.png</url>
+      <title>Journal</title>
+      <link>https://example.com/tag/journal/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to my blog!</title>
+      <link>https://example.com/post/welcome/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:05 +0000</pubDate>
+      <guid>https://example.com/post/welcome/</guid>
+      <description>&lt;h2 id=&#34;what-even-is-this&#34;&gt;What even is this?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What&lt;/strong&gt;: This is a place where I plan on sharing my thoughts, experienes, and things I have found to be encouragements in my life!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why&lt;/strong&gt;: This blog is inspired by my desire to encourage people to follow Jesus. More specifically, I was inspired by a practice my church group did when we were serving in the Czech Republic through an organization called &lt;a href=&#34;https://www.josiahventure.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Josiah Venture&lt;/a&gt;, where we &lt;a href=&#34;https://fbcaz.com/all-good/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogged&lt;/a&gt; about our experiences to bring our local church body alongside us our Journey.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;To Whom&lt;/strong&gt;: The intended audience for this blog are is anyone who is partnering with me in my endeavors to share the gospel with youth. While my intended audience is limited, this blog is actually for anyone and everyone! Please join in praying for me as I prepare to spend my summer as an intern with Josiah Venture!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-do-you-plan-on-posting-here&#34;&gt;What do you plan on posting here?&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
