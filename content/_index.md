@@ -51,7 +51,7 @@ sections:
       provider: netlify
     phone: 480 320 8898
     subtitle: null
-    text: Howdy! If you have any inquiries for me, please send them here! Additionally, if you want to     be notified whenever I post a blog, please let me know so I can add you to the email list!
+    text: If you have any inquiries for me, please send them here! Additionally, if you want to     be notified whenever I post a blog, please let me know so I can add you to the email list!
     title: Contact
   design:
     columns: "2"

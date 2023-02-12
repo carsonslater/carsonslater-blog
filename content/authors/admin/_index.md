@@ -1,5 +1,5 @@
 ---
-bio: Phoenix, AZ native and incoming JosiahVenture intern!
+bio: Phoenix, AZ native and incoming Josiah Venture intern!
 education:
   courses:
   - course: BA in Economics
@@ -29,7 +29,7 @@ social:
   link: https://github.com/carsonslater
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/feed/
+  link: https://www.linkedin.com/in/carsonslateratwheaton/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -39,5 +39,6 @@ superuser: true
 title: Carson Slater
 ---
 
-Howdy! My name is Carson Slater. Welcome to my website! I built this to take you along with me as I finish up my time at Wheaton and transition to working in Czechía for ths summer of 2023, where I will be interning for an organization called Josiah Venture.
+Greetings! My name is Carson Slater, and I am really passionate about sharing my faith in Jesus Christ! I am currently finishing my studies at Wheaton College (IL) studying applied mathematics and economics. I am spending the upcoming summer in the Czech Republic, where I will be interning for an organization called Josiah Venture.
+
 {style="text-align: justify;"}
