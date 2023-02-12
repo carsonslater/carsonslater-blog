@@ -3,13 +3,13 @@ name = "Minimal"
 
 [light]
   # Primary
-  primary = "#F67814"
+  primary = "#FF6600"
 
   # Menu
   menu_primary = "#fff"
   menu_text = "#2b2b2b"
-  menu_text_active = "#F67814"
-  menu_title = "#F67814"
+  menu_text_active = "#FF6600"
+  menu_title = "#FF6600"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
@@ -17,11 +17,11 @@ name = "Minimal"
 
 [dark]
   # Primary
-  primary = "#F67814"
+  primary = "#FF6600"
 
-  link = "#F67814"
-  link_hover = "#F67814"
+  link = "#FF6600"
+  link_hover = "#FF6600"
 
   # Menu
-  menu_text_active = "#F67814"
-  menu_title = "#F67814"
+  menu_text_active = "#FF6600"
+  menu_title = "#FF6600"
