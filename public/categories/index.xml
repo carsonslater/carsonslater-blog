@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Carson Slater&#39;s Blog</title>
-    <link>https://example.com/categories/</link>
-      <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://carsonslater.com/categories/</link>
+      <atom:link href="https://carsonslater.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:05 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu157031afba4586da11a934f6f1896e51_654558_512x512_fill_lanczos_center_3.png</url>
+      <url>https://carsonslater.com/media/icon_hu157031afba4586da11a934f6f1896e51_654558_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://example.com/categories/</link>
+      <link>https://carsonslater.com/categories/</link>
     </image>
     
   </channel>

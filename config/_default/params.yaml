@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Carson Slater. This work is licensed under {license}'
+    notice: '© {year} Carson Slater. This work is licensed under Carson Slater.'
     license:
       enable: false
       allow_derivatives: false
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/carsonslater/carsonslater-blog'
     content_dir: content
     branch: main
   avatar:
