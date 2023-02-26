@@ -10,6 +10,38 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://carsonslater.com/tag/blog/</loc>
+    <lastmod>2023-02-24T00:00:05+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carsonslater.com/category/blog/</loc>
+    <lastmod>2023-02-24T00:00:05+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carsonslater.com/categories/</loc>
+    <lastmod>2023-02-24T00:00:05+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carsonslater.com/tag/missions/</loc>
+    <lastmod>2023-02-24T00:00:05+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carsonslater.com/post/</loc>
+    <lastmod>2023-02-24T00:00:05+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carsonslater.com/post/returning/</loc>
+    <lastmod>2023-02-24T00:00:05+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carsonslater.com/tags/</loc>
+    <lastmod>2023-02-24T00:00:05+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://carsonslater.com/post/welcome/</loc>
+    <lastmod>2023-02-11T00:00:05+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://carsonslater.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,10 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://carsonslater.com/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carsonslater.com/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -83,12 +111,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://carsonslater.com/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carsonslater.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://carsonslater.com/post/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

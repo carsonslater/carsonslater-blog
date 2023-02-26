@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Missions | Carson Slater&#39;s Blog</title>
-    <link>https://carsonslater.com/tag/missions/</link>
-      <atom:link href="https://carsonslater.com/tag/missions/index.xml" rel="self" type="application/rss+xml" />
-    <description>Missions</description>
+    <title>Blog | Carson Slater&#39;s Blog</title>
+    <link>https://carsonslater.com/tag/blog/</link>
+      <atom:link href="https://carsonslater.com/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:05 +0000</lastBuildDate>
     <image>
       <url>https://carsonslater.com/media/icon_hu157031afba4586da11a934f6f1896e51_654558_512x512_fill_lanczos_center_3.png</url>
-      <title>Missions</title>
-      <link>https://carsonslater.com/tag/missions/</link>
+      <title>Blog</title>
+      <link>https://carsonslater.com/tag/blog/</link>
     </image>
     
     <item>
