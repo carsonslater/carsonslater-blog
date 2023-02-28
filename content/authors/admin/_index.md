@@ -18,7 +18,7 @@ interests:
 last_name: Slater
 organizations:
 - name: JosiahVenture
-  url: https://www.josiahventure.com
+  url: https://www.josiahventure.com/people-and-places/interns
 role: Incoming Czechía Intern
 social:
 - icon: envelope
