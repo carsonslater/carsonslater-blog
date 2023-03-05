@@ -17,9 +17,9 @@ interests:
 - Koine Greek
 last_name: Slater
 organizations:
-- name: JosiahVenture
+- name: click here!
   url: https://www.josiahventure.com/people-and-places/interns
-role: Incoming Czechía Intern
+role: To support my ministry,
 social:
 - icon: envelope
   icon_pack: fas
