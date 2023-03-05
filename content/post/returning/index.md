@@ -30,7 +30,7 @@ I am excited to write to you now to inform you that God has provided an opportun
 ## My 'Why'
 I currently attend college in a city that is ranked on this list for the most churches per capita in the world. I grew up less than a mile away from two large churches, and even a Presbyterian church to sweeten the deal. My experiences in Europe have shown me that a European mega-church usually consists of around 100 members, as opposed to the 2,000+ members that I am prone to visualize when I picture a stereotypical American mega-church. 
 
-I mention this to illustrate that in America, people actually have options of where they choose to go to church, which is not a reality everywhere in Europe. This disparity points to the reality that there is much work to be done in exposing people to the gospel in Europe. There are so many people in Europe living a life that has never been exposed to Jesus in a personal way.
+I mention this to illustrate that in America, people actually have options of where they choose to go to church, which is not a reality everywhere in Europe. This disparity points to the notion that there is much work to be done in exposing people to the gospel in Europe. There are so many people in Europe living a life that has never been exposed to Jesus in a personal way.
 
 The population of the Czech Republic is approximately 0.737% evangelical [^1]. That's right. Less than a percent. However, this percent has a growth rate of 0.3% per year! There are believers on the ground in this nation, and I am honored to be given the opportunity to walk alongside them for two and a half months.
 
