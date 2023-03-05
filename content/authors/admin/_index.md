@@ -18,7 +18,7 @@ interests:
 last_name: Slater
 organizations:
 - name: click here!
-  url: https://www.josiahventure.com/people-and-places/interns
+  url: https://www.josiahventure.com/give-form/?designation=689836c4-8b96-407c-afb1-27c679d96029&user=53992
 role: To support my ministry,
 social:
 - icon: envelope
