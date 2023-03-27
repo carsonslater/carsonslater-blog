@@ -1,5 +1,5 @@
 ---
-bio: Phoenix, AZ native and incoming Josiah Venture intern!
+bio: <a href="https://www.josiahventure.com/give-form/?designation=689836c4-8b96-407c-afb1-27c679d96029&user=53992">click here!</a>
 education:
   courses:
   - course: BA in Economics
