@@ -4,7 +4,7 @@ authors:
 categories:
 - Blog
 date: "2023-04-03T00:00:05Z"
-draft: true
+draft: false
 featured: false
 image:
   caption: 'Visualization of all cross references in the Bible.
