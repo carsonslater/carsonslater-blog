@@ -1,5 +1,5 @@
 ---
-bio: <a href="https://www.josiahventure.com/give-form/?designation=689836c4-8b96-407c-afb1-27c679d96029&user=53992">click here!</a>
+bio: <a href="https://www.youtube.com/watch?v=68SUVA9yA80"> watch this video! </a>
 education:
   courses:
   - course: BA in Economics
@@ -17,9 +17,9 @@ interests:
 - Koine Greek
 last_name: Slater
 organizations:
-- name: click here!
-  url: https://www.josiahventure.com/give-form/?designation=689836c4-8b96-407c-afb1-27c679d96029&user=53992
-role: To support my ministry,
+- name: watch this video!
+  url: https://www.youtube.com/watch?v=68SUVA9yA80
+role: To see what summer holds for me,
 social:
 - icon: envelope
   icon_pack: fas
