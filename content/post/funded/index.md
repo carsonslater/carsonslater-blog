@@ -41,7 +41,7 @@ The narrative begins in verse 14. Jesus was just coming down the mountain after 
 
 After reading this, I wept. I couldn't help but notice how the boy's father had said "*If You can do anything...*" I was faced with the reality that too often, when I ask the Lord for things, I possess a posture of doubt. "God, *if* you can...[insert petition]." The problem with this is if I truly believe sanctification looks like my desires growing more consistent with the Lord's desires, then I should have no problem believing that God can and will grant my petitions.
 
-I need to be mindful to walk the line between being comfortable and full of faith in my prayers, yet acknowledging that God is so much more than a granter of requests. Our end game is to be united with Him in His death and resurrection, and to embody Him to others so that they might come to know Him. Part of this looks like our desires becoming His. If this is the case, I can bold approach His throne with full confidence, acknowledging that He is faithful! (Hebrews 4:16)
+I need to be mindful to walk the line between being comfortable and full of faith in my prayers, yet acknowledging that God is so much more than a granter of requests. Our end game is to be united with Him in His death and resurrection, and to embody Him to others so that they might come to know Him. Part of this looks like our desires becoming His. If this is the case, I can boldly approach His throne with full confidence, acknowledging that He is faithful! (Hebrews 4:16)
 
 ### Thanks be to God
 
