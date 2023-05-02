@@ -5,7 +5,7 @@ categories:
 - Blog
 date: "2023-03-26T00:00:05Z"
 draft: false
-featured: true
+featured: false
 image:
   focal_point: ""
   placement: 1
