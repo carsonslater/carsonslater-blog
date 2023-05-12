@@ -50,7 +50,7 @@ I want to put my cards on the table by acknowledging that I am by no means a the
 - The entirety of the people of God will be able to worship God in unity with Christ, resulting in passionate praise for all eternity. (Rev. 5:9-10)
 - God invites His people to participate in this outpouring of salvation by enabling them to become lights in a dark world; the people of God are not the source of the light, but the conduit. (2 Cor. 4:5-7)
 
-One more disclaimer is that the discipline of Biblical Theology is like a game of pick-up-sticks. It is hard to trace one particular theme without disturbing or untangling it from other themes in Scripture, as they are heavily interwoven. Hence, in this article I may gloss over really important facts that are relevant but mostly relate to over themes in Scripture.
+One more disclaimer is that the discipline of Biblical Theology is like a game of pick-up-sticks. It is hard to trace one particular theme without disturbing or untangling it from other themes in Scripture, as they are heavily interwoven. Hence, in this article I may gloss over really important facts that are relevant but mostly relate to other themes in Scripture.
 
 
 ### The Original Comission
