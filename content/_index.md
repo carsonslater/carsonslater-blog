@@ -31,12 +31,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Wheaton
+      city: Chandler
       country: United States
       country_code: US
-      postcode: "60187"
-      region: IL
-      street: 501 College Ave.
+      postcode: "85286"
+      region: AZ
+      street: 1571 W Thompson Way
     autolink: true
     contact_links:
     - icon: instagram
