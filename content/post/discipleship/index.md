@@ -20,7 +20,9 @@ title: A Model of Discipleship
 
 Last summer, I visited the Czech Republic for the first time, and it was a great experience. We partnered with a church near the Polish border and helped with their annual English Camp. Thankfully, we did not just dive straight into the camp, unprepared. We did months of preparation on the front end of the trip, and even a couple days of training in Prague upon arrival.
 
-During our training, we were not only given time to overcome jet lag, but we were also introduced to Josiah Venture's discipleship training material. I thought it would be helpful to share it with you all since it is the abstract paradigm through which I will be operating this summer as I minister to high school students!
+During our training, we were not only given time to overcome jet lag, but we were also introduced to Josiah Venture's discipleship training material. I thought it would be helpful to share it with you all since it is the abstract paradigm through which I will be operating this summer as I minister to high school students! 
+
+As a disclaimer, the first two of these challenges first happen to people who have not yet repented and believed (i.e. nonbelievers). Every person who is in Christ encounters these five challenges in their life!
 
 # The Five Challenges of Christ
 
