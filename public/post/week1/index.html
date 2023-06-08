@@ -1,0 +1,1350 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: June 8, 2023 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.43d7c3101ef3c1d08414a6e7126ffd9b.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-24B431J36B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-24B431J36B', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-24B431J36B');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Carson Slater" />
+
+
+
+
+
+  
+
+<meta name="description" content="Week 1 Recap" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://carsonslater.com/post/week1/" />
+<link rel="canonical" href="https://carsonslater.com/post/week1/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0d1b359ff755bc8a5277e5449e3824a5_220651_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0d1b359ff755bc8a5277e5449e3824a5_220651_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#FF6600" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@wowchemy" />
+  <meta property="twitter:creator" content="@wowchemy" />
+<meta property="twitter:image" content="https://carsonslater.com/post/week1/featured.JPG" />
+<meta property="og:site_name" content="Carson Slater&#39;s Blog" />
+<meta property="og:url" content="https://carsonslater.com/post/week1/" />
+<meta property="og:title" content="Quite an &#39;Amazing&#39; Start | Carson Slater&#39;s Blog" />
+<meta property="og:description" content="Week 1 Recap" /><meta property="og:image" content="https://carsonslater.com/post/week1/featured.JPG" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2023-06-07T00:00:05&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2023-06-07T00:00:05&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://carsonslater.com/post/week1/"
+  },
+  "headline": "Quite an 'Amazing' Start",
+  
+  "image": [
+    "https://carsonslater.com/post/week1/featured.JPG"
+  ],
+  
+  "datePublished": "2023-06-07T00:00:05Z",
+  "dateModified": "2023-06-07T00:00:05Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Carson Slater"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Carson Slater's Blog",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://carsonslater.com/media/icon_hu0d1b359ff755bc8a5277e5449e3824a5_220651_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Week 1 Recap"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Quite an &#39;Amazing&#39; Start | Carson Slater&#39;s Blog</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="bc6ade111387b12fbb819edd4e87b35f" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.74aedfae60bb49ca67a368a90c9bbab5.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Carson Slater&#39;s Blog</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Carson Slater&#39;s Blog</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Quite an &#39;Amazing&#39; Start</h1>
+
+  
+  <p class="page-subtitle">Week 1 Recap</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Carson Slater</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 7, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/blog/">Blog</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 540px;">
+  <div style="position: relative">
+    <img src="/post/week1/featured_hu7280ce5a47c5ae088b64ba28327ed8d4_1482825_720x2500_fit_q75_h2_lanczos.webp" width="720" height="540" alt="" class="featured-image">
+    <span class="article-header-caption">Team Czech on the JV Amazing Race</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h3 id="ready-set-go">Ready, Set, Go!</h3>
+<p>I arrived at the airport Krakow, Poland with one of my fellow interns, Petr, a JV Czech staff member, Baru, and my intern director, Josh, via bus on Thursday, June 1st. We met up with our final team member Lydia who flew in from northern Ireland! From then on, we started on the <a href="https://www.youtube.com/watch?v=H2edwpFxpg8" target="_blank" rel="noopener">JV Amazing Race</a>! The race took us throughout the city of Krakow, where we encountered challenges that were designed to build up team chemistry, uncover strengths and weaknesses of individuals, and teach us about Josiah Venture and Polish culture. After spending the night in a Krakow hostel and some more events Friday in Krakow, we tooke a bus to Český Těšín, where we finished the race (I felt like I had home court advantage low key).</p>
+<p>In case you were wondering, we were in eighth place out of fourteen after day 1, and finished in fifth!</p>
+<p>Some noteworthy race features were:</p>
+<ul>
+<li>Finding specific plants in <a href="https://ogrod.uj.edu.pl/english" target="_blank" rel="noopener">The Botanical Garden of the Jagiellonian University</a>,</li>
+<li>Riding the <a href="http://cracoweye.pl/en/home-english/" target="_blank" rel="noopener">Krakow Eye</a></li>
+<li>Puzzles regarding famous Polish music composer&rsquo;s Chopin&rsquo;s <a href="https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV?si=c69a8da111be40c5" target="_blank" rel="noopener">Nocturne No.20 in C sharp minor</a>,</li>
+<li>An epic scavenger hunt all over Krakow, with many items requiring us to talk to strangers,</li>
+<li>Taking a picture from the overlook at Těšín,</li>
+<li>Learning how to wash clothes in a sink in Český Těšín,</li>
+<li>Learning the camp dance,</li>
+<li>and more!</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gallery-grid">
+
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-race" href="/media/albums/race/card.JPG" >
+      <img src="/media/albums/race/card_hu9dd1fdd79712fc29e9f6c16c44489b72_1006443_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="card.JPG" width="563" height="750">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+      
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-race" href="/media/albums/race/krakow.JPG" >
+      <img src="/media/albums/race/krakow_hu9eb3ca9273cc2b46053c3c2170086770_1628666_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="krakow.JPG" width="750" height="563">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+      
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-race" href="/media/albums/race/pyramid.JPG" >
+      <img src="/media/albums/race/pyramid_hu9dd1fdd79712fc29e9f6c16c44489b72_2930067_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="pyramid.JPG" width="563" height="750">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+      
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-race" href="/media/albums/race/race_bereal.JPG" >
+      <img src="/media/albums/race/race_bereal_hue5cfa4a500ca8e7f1113502e8eb7039b_185114_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="race_bereal.JPG" width="513" height="750">
+    </a>
+  </div>
+  
+
+</div>
+
+<p>Overall this race was an opportunity for my to gel with my intern team, and I am so thankful for the memorable experience. Running and debriefing it was a huge opportunity to set ourselves up for success over the summer.</p>
+<h3 id="intern-training">Intern Training</h3>
+<p>After the race, I &lsquo;ran into&rsquo; one of the elders from my Arizona church, Doug Sandy! That was super cool. Doug was the leader of my first trip to Czechia last summer, and he was visiting the church we did our camp with last summer as a short-term team.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-seeing-doug-and-our-friend-radek-in-český-těšín">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /post/week1/Doug_hucd1bb2f7f9e1dfeabb922a2333d78038_657728_0a86840172408117e6fa17310b7eff43.webp 400w,
+               /post/week1/Doug_hucd1bb2f7f9e1dfeabb922a2333d78038_657728_a1142b1e54a19f774756797646350284.webp 760w,
+               /post/week1/Doug_hucd1bb2f7f9e1dfeabb922a2333d78038_657728_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/week1/Doug_hucd1bb2f7f9e1dfeabb922a2333d78038_657728_0a86840172408117e6fa17310b7eff43.webp"
+               width="571"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Seeing Doug and our friend Radek in Český Těšín.
+    </figcaption></figure>
+</p>
+<p>with we traveled to</p>
+<p><br>
+χάριτος καἰ εἰρήνη,<br>
+(grace and peace)<br>
+<br>
+<code>- Carson</code></p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/missions/">Missions</a>
+  
+  <a class="badge badge-light" href="/tag/blog/">Blog</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://carsonslater.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu982935e8b20121956fc0c57c7ee3c260_870169_270x270_fill_q75_lanczos_center.jpeg" alt="Carson Slater"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://carsonslater.com/">Carson Slater</a></h5>
+      <h6 class="card-subtitle">To see what summer holds for me,</h6>
+      <p class="card-text"><a href="https://www.youtube.com/watch?v=68SUVA9yA80"> watch this video! </a></p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/carsonslater" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/carsonslateratwheaton/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/resume.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 Carson Slater. This work is licensed under Carson Slater.
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous"></script>
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.e8ee06ba8371980ffde659871dd593b0.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
