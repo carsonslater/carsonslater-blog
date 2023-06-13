@@ -43,6 +43,8 @@ Saturday was our rest day, where we took a team trip to the mountains of Slovaki
 
 This upcoming week we are hitting the road to promote camp on the other side of the country. Our third camp this summer is being hosted by two churches working together in the Prague area, and it will be the first year they have ever done an English Camp! As a result, we will be much more hands-on with this English Camp and have to walk the church through what doing one of these camps look like. They have smaller youth groups, but we are hoping the school visits in their areas on Wednesday, Thursday, and Friday will get students in their communities excited about English Camp. So, Tuesday is another administrative day (prepping for teaching English does take many hours) where we will be gearing up for English classes and the upcoming school visits. 
 
+![screen reader text](grind.jpg "Working hard on English Class preparation (and this blog post).")
+
 I will also be preparing for Mission Team Training, where we will train the short-term American teams that are coming to support these English Camps. For these trainings, we can share how these short-term teams can be the most effective in the camps ministry while still being good stewards of their own bandwidth.
 
 ### Prayer Requests
