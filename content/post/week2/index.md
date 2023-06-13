@@ -3,8 +3,7 @@ authors:
 - admin
 categories:
 - Blog
-date: "2023-06-14T00:00:05Z"
-draft: false
+date: "2023-06-13T00:00:05Z"
 image:
   focal_point: ""
   placement: 1
