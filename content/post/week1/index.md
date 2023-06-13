@@ -73,7 +73,7 @@ I'd love if you joined us in our ministry by praying over us! Some things that w
 - That our team may continue to gel together and build up one another.
 - That our local churches with whom we are partnering can prepare for English camps well.
 - For the American mission teams that are coming to our English camps.
-- For student to have an open heart toward the gospel.
+- For students to have an open heart toward the gospel.
 - That we as interns may be effective in meeting students where they are at, to love on them.
 
 ### Thank You!
