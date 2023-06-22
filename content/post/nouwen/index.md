@@ -11,8 +11,8 @@ image:
   focal_point: ""
   placement: 1
   preview_only: false
-subtitle: "Reflections on my reading of Henry Nouwen's *In the Name of Jesus*"
-summary: "Reflections on my reading of Henry Nouwen's *In the Name of Jesus*"
+subtitle: "Reflections on my reading of Henri Nouwen's *In the Name of Jesus*"
+summary: "Reflections on my reading of Henri Nouwen's *In the Name of Jesus*"
 tags:
 - Book Review
 - Blog
