@@ -15,7 +15,7 @@ summary: Week 4 Recap
 tags:
 - Missions
 - Blog
-title: The Calm Before the Storm
+title: Camp Season is Upon Us!
 ---
 
 ### Camp season is upon us!
