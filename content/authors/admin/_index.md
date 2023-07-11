@@ -1,5 +1,5 @@
 ---
-bio: <a href="https://www.youtube.com/watch?v=68SUVA9yA80"> watch this video! </a>
+bio: <a href="https://www.youtube.com/watch?v=9g9W-Tql_Cs"> watch this video! </a>
 education:
   courses:
   - course: BA in Economics
@@ -18,7 +18,7 @@ interests:
 last_name: Slater
 organizations:
 - name: watch this video!
-  url: https://www.youtube.com/watch?v=68SUVA9yA80
+  url: https://www.youtube.com/watch?v=9g9W-Tql_Cs
 role: To see what summer holds for me,
 social:
 - icon: envelope
