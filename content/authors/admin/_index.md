@@ -39,6 +39,6 @@ superuser: true
 title: Carson Slater
 ---
 
-Greetings! My name is Carson Slater, and I am really passionate about sharing my faith in Jesus Christ! I am spending the upcoming summer in the Czech Republic, where I will be interning for an organization called Josiah Venture.
+Greetings! My name is Carson Slater, and I am really passionate about sharing my faith in Jesus Christ! I am spending the summer in the Czech Republic, where I am interning for an organization called Josiah Venture.
 
 {style="text-align: justify;"}
