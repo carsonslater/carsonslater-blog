@@ -1,0 +1,1437 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: July 24, 2023 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.43d7c3101ef3c1d08414a6e7126ffd9b.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-24B431J36B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-24B431J36B', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-24B431J36B');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Carson Slater" />
+
+
+
+
+
+  
+
+<meta name="description" content="Recapping Weeks 5 and 6" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://carsonslater.com/post/weeks56/" />
+<link rel="canonical" href="https://carsonslater.com/post/weeks56/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0d1b359ff755bc8a5277e5449e3824a5_220651_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0d1b359ff755bc8a5277e5449e3824a5_220651_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#FF6600" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@wowchemy" />
+  <meta property="twitter:creator" content="@wowchemy" />
+<meta property="twitter:image" content="https://carsonslater.com/post/weeks56/featured.JPG" />
+<meta property="og:site_name" content="Carson Slater&#39;s Blog" />
+<meta property="og:url" content="https://carsonslater.com/post/weeks56/" />
+<meta property="og:title" content="Bystre! | Carson Slater&#39;s Blog" />
+<meta property="og:description" content="Recapping Weeks 5 and 6" /><meta property="og:image" content="https://carsonslater.com/post/weeks56/featured.JPG" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2023-07-11T00:00:05&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2023-07-11T00:00:05&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://carsonslater.com/post/weeks56/"
+  },
+  "headline": "Bystre!",
+  
+  "image": [
+    "https://carsonslater.com/post/weeks56/featured.JPG"
+  ],
+  
+  "datePublished": "2023-07-11T00:00:05Z",
+  "dateModified": "2023-07-11T00:00:05Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Carson Slater"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Carson Slater's Blog",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://carsonslater.com/media/icon_hu0d1b359ff755bc8a5277e5449e3824a5_220651_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Recapping Weeks 5 and 6"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Bystre! | Carson Slater&#39;s Blog</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c135d76497e25674443a75fb28836241" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.74aedfae60bb49ca67a368a90c9bbab5.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Carson Slater&#39;s Blog</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Carson Slater&#39;s Blog</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Bystre!</h1>
+
+  
+  <p class="page-subtitle">Recapping Weeks 5 and 6</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Carson Slater</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 11, 2023
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    9 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/blog/">Blog</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 481px;">
+  <div style="position: relative">
+    <img src="/post/weeks56/featured_hucf006514fb528f147680d409f905c94b_3027362_720x2500_fit_q75_h2_lanczos.webp" width="720" height="481" alt="" class="featured-image">
+    <span class="article-header-caption">Camp Photo with Bystre English Camp!</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h3 id="overview">Overview</h3>
+<p>Hey everyone! I am so tardy on this blog post and I apologize greatly. Thank you for your patience. These past two weeks have been phenomenal, and I have so much to unpack for you all. Hang tight for the sequence of events!</p>
+<h3 id="mission-team-training">Mission Team Training</h3>
+<p>June 27, we arrived back at Josiah Venture&rsquo;s training center near Frydlant, CZ at Malenovice. We were joined by four mission teams from different parts of the United States where they were given tips and
+protocol for how to do life well at camp.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-dave-patty-president-of-josiah-venture-giving-an-evening-talk-at-mission-team-training">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /post/weeks56/talk_hu050297fea25fffe45c666a9073de4fb1_1911540_a2e3e81896b8fee582bc3b78c27adbe1.webp 400w,
+               /post/weeks56/talk_hu050297fea25fffe45c666a9073de4fb1_1911540_6f7d7c0030d38f93ddf4e1356593a0f8.webp 760w,
+               /post/weeks56/talk_hu050297fea25fffe45c666a9073de4fb1_1911540_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/weeks56/talk_hu050297fea25fffe45c666a9073de4fb1_1911540_a2e3e81896b8fee582bc3b78c27adbe1.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Dave Patty (President of Josiah Venture) giving an evening talk at mission team training.
+    </figcaption></figure>
+</p>
+<p>We taught them how to teach English well, lead discussion groups, understand Czech culture, and handle potential camp issues. Each day consisted of seminars, camp dance practice, workshops, free time, and the infamous evening program.</p>
+<p>For those who have never worked with Josiah Venture before, evening program is the climax of each day at camp, where there are high-energy songs, games, dances, skits, all building up to an evening talk with a gospel presentation. At mission team training, we put on our own evening program where we gave mission teams a glimpse into what each evening would look like for them at camp. As an intern, most of the things in evening program are my responsibility, minus the talk, so that was probably my most busiest time during training.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-sunset-at-jv-training-center-malenovice">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /post/weeks56/sunset_hu2845bf06e1e77690d121688b40cf86c0_2429680_561094d8b7bbd34a3c62b7f388e6beff.webp 400w,
+               /post/weeks56/sunset_hu2845bf06e1e77690d121688b40cf86c0_2429680_3a043e6d574eda31e8803861e705bf12.webp 760w,
+               /post/weeks56/sunset_hu2845bf06e1e77690d121688b40cf86c0_2429680_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/weeks56/sunset_hu2845bf06e1e77690d121688b40cf86c0_2429680_561094d8b7bbd34a3c62b7f388e6beff.webp"
+               width="760"
+               height="398"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Sunset at JV training center Malenovice.
+    </figcaption></figure>
+</p>
+<p>Overall mission team training was great because I was able to bond with the mission teams, especially the one I tagged along to do camp with.</p>
+<h3 id="arriving-at-camp">Arriving at Camp</h3>
+<p>June 30, we hopped on a train for 5 hours to where camp was, which was near the CB church in Bystre. For context, Bystre is in the northeast part of Bohemia, and so it is kind of in the center of the Czech Republic but more north. The American team typically arrives at camp a day or so before camp actually starts to set up the campground, and make final preparations. One of my responsibilities was to help make the <a href="https://photos.app.goo.gl/TcDprFpt4qW8sTC2A" target="_blank" rel="noopener">camp rules video</a>. (You should watch it!) We ended up making a parody of a-ha&rsquo;s <em>Take on Me</em>. This video was played during the first evening program to highlight the do&rsquo;s and don&rsquo;t&rsquo;s of camp.</p>
+<h3 id="camp-highlights">Camp Highlights</h3>
+<h4 id="watch-the-official-camp-recap-video-herehttpswwwyoutubecomwatchv9g9w-tql_cs"><a href="https://www.youtube.com/watch?v=9g9W-Tql_Cs" target="_blank" rel="noopener">Watch the official camp recap video here!</a></h4>
+<p>According to the Czech church people, this was the most students they had ever had for English camp! There were almost 70 students. Each day of camp, students could sign up for a morning activity, which could be either English class, a music workshop, a hike, or a sports activity. After lunch, there were different afternoon workshops containing games, useful skills, or talks. There was always an afternoon activity which involved team games, or water-activities, and evening program started after dinner. After each evening program, the whole camp split into discussion groups to process the content of the evening talk, and finally there was always a night time activity starting at 10pm.</p>
+<p>For myself, I mostly led the morning sports workshops, but one morning I was asked to lead the music workshop! Of all the sports workshops, the Czechs seemed to enjoy the American sports the most (baseball and American football).</p>
+<video width="320" height="240" controls>
+  <source src="baseball.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+<video width="320" height="240" controls>
+  <source src="football.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+<p>Afternoon workshops were a blast! From cooking workshops by a masterchef competitor, to a workshops on how to travel well, to crocheting, we offered a lot of different options for the students to gain random useful skills. One afternoon workshop I hosted was a specialty coffee workshop. The camp director had me and a local coffee barista come and teach people how to think about, buy, and brew specialty coffee! It was super cool and I actually learned a few new brewing methods from my Czech coffee counterpart, although I must say he was far more advanced than me.</p>
+<video width="320" height="240" controls>
+  <source src="coffeetime.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+<p>This particular English camp really impressed me with all of the creativity that went into planning the afternoon activities, we did fun minigames, but we also had thematic games, such as the squid games (based off the Netflix series) and a game based off the 10 plagues of Egypt.</p>
+<p>Evening programs were super energetic. The students I talked to all agreed that the camp dance was one of the most fun and energizing parts of camp. We also had the camp songs, led by yours truly and my fellow intern Lydia. Worship followed camp songs, which led up to each evening talk.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-first-evening-program-of-the-week">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /post/weeks56/firstevening_hu09c5733301231445019de5326115ba57_1241471_ddf68e133674550130ead16a21f88059.webp 400w,
+               /post/weeks56/firstevening_hu09c5733301231445019de5326115ba57_1241471_ecaa946cc8e8ddd62385627ab50bb3fe.webp 760w,
+               /post/weeks56/firstevening_hu09c5733301231445019de5326115ba57_1241471_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/weeks56/firstevening_hu09c5733301231445019de5326115ba57_1241471_ddf68e133674550130ead16a21f88059.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      First evening program of the week!!!
+    </figcaption></figure>
+</p>
+<p>This year, the camp theme is &ldquo;Part of the Plan,&rdquo; and all of the camp talks go through part of the redemptive arc of Scripture, starting in Genesis, and ending in the church age. Each evening, there is a different main topic, ranging from God&rsquo;s created design, to sin, to how God wants to restore hearts to follow Him. Each talk is followed by a discussion group time where students are given an opportunity to unpack what they thought about the talk.</p>
+<p>God was moving all week, even in times when it did not seem clear to me! We had three of the eight girls in my discussion group give their lives to Jesus for the first time! Also in another group, a 13 year old boy who had been the quietest, most reserved kid at camp, gave his life to Jesus for the first time as well after our Labyrinth exhibition (series of interactive exhibitions that students walk through to process the gospel)! That next day he seemed like a completely different person. He was dancing - like everywhere. The joy was contagious. Also - it turns out that he started to speak - NEARLY FLUENT ENGLISH! He went from not talking at all to having full-fledged conversations with me.</p>
+<p>One more student came up to me at one of the evening activities where she shared with me that before camp, she was running away from God, even though her whole family are Christians. She told me that because of some important words from a few people, she wants to repent and turn. Please pray for her as she navigates this change of heart!</p>
+<p>Evening activities created some of the most fun memories at camp. We had games, a talent show, a fourth of July party, and an Egypt party. Those were times where I felt like the strongest bonds were forged between the students and Americans.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-preparing-for-the-fourth-of-july-party">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /post/weeks56/merica_hu7280ce5a47c5ae088b64ba28327ed8d4_965830_75d877699db6320344ac78233c599c17.webp 400w,
+               /post/weeks56/merica_hu7280ce5a47c5ae088b64ba28327ed8d4_965830_a2e689f0c1002487ecf38cc6ee6fe063.webp 760w,
+               /post/weeks56/merica_hu7280ce5a47c5ae088b64ba28327ed8d4_965830_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/weeks56/merica_hu7280ce5a47c5ae088b64ba28327ed8d4_965830_75d877699db6320344ac78233c599c17.webp"
+               width="570"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Preparing for the fourth of July party!
+    </figcaption></figure>
+</p>
+<h3 id="one-more-story">One More Story</h3>
+<p>Over the course of the week, I learned that one of the students in my room who was staying with me was very agnostic. I learned this after talking with him about books, because I had asked him one day during free time what he was reading. I loved this conversation because I promised to read one of his favorite books, and he promised to read <em>Mere Christianity</em> by C.S. Lewis.</p>
+<p>Throughout the course of the week and at meal times, I would see him and continue to invest in the relationship, asking him questions about his life at university (he was an engineering student), and his hometown, and his hobbies.</p>
+<p>I eventually learned that he has had a few open heart surgeries, with one being as recent as the past year. I asked him if the evening talks or discussion groups resonated with him, and he did not seem to think so. I proposed that perhaps it was a part of God&rsquo;s plan that he was at English camp. He did not seem to think so.</p>
+<p>On the night of Labyrinth, I again got to chat with him for an hour! We talked about how he percieved the activity, and he seemed to be very respectful, even impressed by our belief in God, but he himself did not buy in because he was not sure anyone could know for sure. Then I asked him the following question:</p>
+<p><strong>What do you think you would accept as evidence for God&rsquo;s existence?</strong></p>
+<p>It turns out the question was something he had never considered before. Many people who do not believe in God do not realize that when they have no standard for evidence, they are in denial. They aren&rsquo;t giving God a chance.</p>
+<p>The question had stumped him. The conversation lasted another thirty minutes, containing more questions, a retelling of the story of Jesus and the Samaritan woman at the well, and a promise to follow up on the conversation.</p>
+<p>We followed up by continuing this conversation at breakfast on the last day of camp. This student&rsquo;s discussion group leader later told me that this conversation was one of the biggest takeaways he had at camp! He loved thinking about God, and although he never trusted Jesus, him and I are still in touch, and will be reading the books we promised each other we&rsquo;d read! Please pray that God continues to work on this student&rsquo;s heart this summer!</p>
+<h3 id="praise-god-for-the-american-team">Praise God for the American Team</h3>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-most-of-the-american-mission-team-we-were-working-with-from-conway-ar">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="screen reader text" srcset="
+               /post/weeks56/fellowship_hu7280ce5a47c5ae088b64ba28327ed8d4_470967_41b2a6ab3f0bb7357d4cc769fa5ed368.webp 400w,
+               /post/weeks56/fellowship_hu7280ce5a47c5ae088b64ba28327ed8d4_470967_c99acb8e4b5b18d0fb5471d27909fa62.webp 760w,
+               /post/weeks56/fellowship_hu7280ce5a47c5ae088b64ba28327ed8d4_470967_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/weeks56/fellowship_hu7280ce5a47c5ae088b64ba28327ed8d4_470967_41b2a6ab3f0bb7357d4cc769fa5ed368.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Most of the American mission team we were working with from Conway, AR.
+    </figcaption></figure>
+</p>
+<p>It was a joy to serve alongside the people at the Czech Church, CB Bystre, and also the American church, Fellowship Bible Church in Conway, AR. The team was young, energetic, and I am so excited to go visit them when I get back to the states! This camp would not have gone as well without them.</p>
+<h3 id="prayer">Prayer</h3>
+<p>I would love to invite you to pray over this Josiah Venture camps ministry! Please pray for:</p>
+<ul>
+<li>
+<p>the war in Ukraine to end promptly and for people there to begin rebuilding their lives and healing.</p>
+</li>
+<li>
+<p>the 9 remaining English camps happening across the Czech Republic this summer.</p>
+</li>
+<li>
+<p>the students who accepted Christ for the first time this past week at English Camp.</p>
+</li>
+<li>
+<p>safe travel for mission teams heading home, and heading to Czechia.</p>
+</li>
+<li>
+<p>Czech leaders to trust the Lord in their camps, and have all the logistical things run smoothly.</p>
+</li>
+<li>
+<p>the communities and churches hosting these English Camps, that they would be inviting places where new students would want to stay.</p>
+</li>
+<li>
+<p>For my energy levels as I am entering my second camps term.</p>
+</li>
+</ul>
+<h3 id="photos">Photos</h3>
+<h4 id="click-here-for-the-week-5-photo-dumphttpsphotosappgooglhmacndvtbjwugvkk7"><a href="https://photos.app.goo.gl/HMacNDVtbjWUgVKK7" target="_blank" rel="noopener">Click Here for the Week 5 Photo Dump!</a></h4>
+<h4 id="click-here-for-the-week-6-photo-dumphttpsphotosappgooglm67tmxbzdan9y8cb7"><a href="https://photos.app.goo.gl/M67tmXBZDan9y8CB7" target="_blank" rel="noopener">Click Here for the Week 6 Photo Dump!</a></h4>
+<p>Thank you for letting me invite you into what God is doing here in the Czech Republic!</p>
+<p><br>
+χάριτος καἰ εἰρήνη,<br>
+(grace and peace)<br>
+<br>
+<code>- Carson</code></p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/missions/">Missions</a>
+  
+  <a class="badge badge-light" href="/tag/blog/">Blog</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://carsonslater.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu982935e8b20121956fc0c57c7ee3c260_870169_270x270_fill_q75_lanczos_center.jpeg" alt="Carson Slater"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://carsonslater.com/">Carson Slater</a></h5>
+      <h6 class="card-subtitle">To see what summer holds for me,</h6>
+      <p class="card-text"><a href="https://www.youtube.com/watch?v=9g9W-Tql_Cs"> watch this video! </a></p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/carsonslater" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/carsonslateratwheaton/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/resume.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 Carson Slater. This work is licensed under Carson Slater.
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.e8ee06ba8371980ffde659871dd593b0.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
