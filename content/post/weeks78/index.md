@@ -39,7 +39,7 @@ Mission team training was such a joy! This was our second session of the summer,
 
 ### English Camp
 
-This particular English Camp was special to me because of how familiar it was for me. This exact camp was the first Josiah Venture camp I was a part of last summer, and is one of the reasons I heavily considered doing this internship. Unlike the first camp, I was surrounded by not only people from my own home (the Family Bible Church American team), but also many of the campers had returned from last year's camp! Additionally, I noticed a few campers who had come from the school that I visited a few weeks ago in the same region.
+This particular English Camp was special to me because of how familiar it was for me. It was also at the same place as mission team training, which was really convenient! This exact camp was the first Josiah Venture camp I was a part of last summer, and is one of the reasons I heavily considered doing this internship. Unlike the first camp, I was surrounded by not only people from my own home (the Family Bible Church American team), but also many of the campers had returned from last year's camp! Additionally, I noticed a few campers who had come from the school that I visited a few weeks ago in the same region.
 
 {{< gallery album="tesincamp" >}}
 
