@@ -19,7 +19,7 @@ last_name: Slater
 organizations:
 - name: watch this video!
   url: https://www.youtube.com/watch?v=9g9W-Tql_Cs
-role: To see what summer holds for me,
+role: Check out what I did this summer and
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,7 +29,7 @@ social:
   link: https://github.com/carsonslater
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/carsonslateratwheaton/
+  link: https://www.linkedin.com/in/carsonslateratbaylor/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -39,6 +39,6 @@ superuser: true
 title: Carson Slater
 ---
 
-Greetings! My name is Carson Slater, and I am really passionate about sharing my faith in Jesus Christ! I am spending the summer in the Czech Republic, where I am interning for an organization called Josiah Venture.
+Greetings! My name is Carson Slater, and I am really passionate about sharing my faith in Jesus Christ! I just started my Statistics PhD at Baylor University, and will be chronicling my thoughts and experiences here.
 
 {style="text-align: justify;"}
