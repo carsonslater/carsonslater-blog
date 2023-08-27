@@ -29,7 +29,7 @@ I hope to share with you my experiences preparing for my JV summer internship, a
 I also have ambitions to publish some of my own writing here - mainly about books I want to review, ideas I want to share, and things I would love to invite you to consider!
 
 ## What is [JosiahVenture](https://www.josiahventure.com)?
-Josiah Venture is a para-church missions organization focused on raising up youth leaders in Central and Eastern Europe. Their mission statement can be found on their website, but I've retrieved it here for you:
+Josiah Venture is a mission organization focused on raising up youth leaders in Central and Eastern Europe. Their mission statement can be found on their website, but I've retrieved it here for you:
 
 ><div align="left">"This is the vision of Josiah Venture, a vision for a movement of God among the youth of Central and Eastern Europe that finds its home in the local church and transforms society. Our mission and calling is to equip young leaders to fulfill Christ’s commission by reaching and making disciples. More than just conversion, we want to see passionate followers of Jesus Christ, with a vision to reach and disciple their generation for him."</div>
 
