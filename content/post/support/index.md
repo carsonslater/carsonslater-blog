@@ -53,7 +53,7 @@ My heartbeat behind support raising is to invite people into ministry through pr
 
 ## **BOLD** Faith
 
-I believe that if God is bigger than all I can ask or imagine, and that if He calls me His son, He would have no problem with me asking for great things in **bold faith**. God is investing in His children to yield a return of 30, 60, or 100 fold! Investors want their investments to yield 100-fold returns! That is exactly why I am inviting everyone I can into this partnership, asking for as much as they are able to give cheerfully. I am so excited to see what God does this summer when He chooses to move in the regions of central and eastern Europe. I truly hold onto this exhoration in 2 Corinthians:
+I believe that if God is bigger than all I can ask or imagine, and that if He calls me His son, He would have no problem with me asking for great things in **bold faith**. God is investing in His children to yield a return of 30, 60, or 100 fold! Investors want their investments to yield 100-fold returns! That is exactly why I am inviting everyone I can into this partnership, asking for as much as they are able to give cheerfully. I am so excited to see what God does this summer when He chooses to move in the regions of central and eastern Europe. I truly hold onto this exhortation in 2 Corinthians:
 
 >'"And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work."[^4]
 

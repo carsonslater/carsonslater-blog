@@ -76,7 +76,7 @@ One of my favorite examples in Scripture of this is the first four of these chal
 
 >"You then, my child, be strengthened by the grace that is in Christ Jesus, and what you have heard from me in the presence of many witnesses entrust to faithful men who will be able to teach others also."[^6]
 
-This is precisely the verse we used to name the podcast that my friends started at my church in Arizona (shameless plug - click [here]() to listen on Spotify)!
+This is precisely the verse we used to name the podcast that my friends started at my church in Arizona (shameless plug - click [here](https://open.spotify.com/show/2nwcHPoB5bOc9wJOqAp62O?si=92d9bdf720384c3f) to listen on Spotify)!
 
 Is this idea of entrusting what we know about follow God to others new? Nope.
 
