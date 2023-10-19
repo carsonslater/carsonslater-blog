@@ -31,12 +31,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Chandler
+      city: Waco
       country: United States
       country_code: US
-      postcode: "85286"
-      region: AZ
-      street: 1571 W Thompson Way
+      postcode: "76706"
+      region: TX
+      street: 2021 S. 8th St. Apt C
     autolink: true
     contact_links:
     - icon: instagram
